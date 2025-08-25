@@ -73,8 +73,7 @@ This repository contains 5 automation agents built with **Make (Integromat)**, d
 ---
 
 ## 📎 Submission Notes
-This repo documents the 5 working agents submitted for the **Wokkah AI Challenge**.  
-Each blueprint/flow can be exported and reused in Make.
+This repo documents the 5 working agents submitted for the **Wokkah AI Challenge** and a screenshot of their workflow
 
 ---
 

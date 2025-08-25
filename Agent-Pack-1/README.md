@@ -6,17 +6,7 @@ This repository contains 5 automation agents built with **Make (Integromat)**, d
 
 ## 📌 Agents Overview
 
-### 1. 📰 Engineering News Aggregator
-- **Goal:** Stay updated with the latest engineering and tech news.
-- **Workflow:**
-  - Fetches articles from **RSS feeds**.
-  - Iterates through the items and aggregates them.
-  - Sends a neatly formatted digest directly to **Subscribers email address**.
-- **Value:** Cuts through noise and delivers only relevant news updates in one place.
-
----
-
-### 2. 📋 Site Report Summarizer
+### 1. 📋 Site Report Summarizer
 - **Goal:** Automate site reporting for engineering/construction projects.
 - **Workflow:**
   - Accepts site work updates (via email or input).
@@ -26,7 +16,17 @@ This repository contains 5 automation agents built with **Make (Integromat)**, d
 
 ---
 
-### 3. 📂 Resume Logger
+### 2. 📰 Engineering News Aggregator
+- **Goal:** Stay updated with the latest engineering and tech news.
+- **Workflow:**
+  - Fetches articles from **RSS feeds**.
+  - Iterates through the items and aggregates them.
+  - Sends a neatly formatted digest directly to **Subscribers' email address**.
+- **Value:** Cuts through noise and delivers only relevant news updates in one place.
+
+---
+
+### 3. 📂 Auto Resume Logger
 - **Goal:** Organize incoming job applications seamlessly.
 - **Workflow:**
   - Monitors Gmail for new applications.
@@ -46,7 +46,7 @@ This repository contains 5 automation agents built with **Make (Integromat)**, d
   - Adds reminders to **Google Calendar**.
   - Replies to the sender confirming the task.
   - Includes duplicate detection to prevent redundancy.
-  - In a situation when the task is not well-detailed, an automatic email is sent asking the sender to provide more context to the task
+  - In a situation when the task is not well-detailed, an automatic email is sent asking the sender to provide more context to the task.
 - **Value:** Ensures no task slips through the cracks and adds accountability.
 
 ---
@@ -66,7 +66,8 @@ This repository contains 5 automation agents built with **Make (Integromat)**, d
 - **Make (Integromat)** – Workflow automation platform  
 - **Telegram Bot API** – Notifications & digests  
 - **Gmail + Google Drive + Google Sheets + Google Calendar** – Productivity tools  
-- **Adzuna API** – Job data  
+- **Adzuna API** – Job data
+- **OpenRouter** - AI Models (LLMs) 
 - **Custom AI Prompts** – Summarization & extraction logic  
 
 ---

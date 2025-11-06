@@ -15,6 +15,7 @@ This repository showcases the third batch of 5 automation agents built with **Ma
   - Calculates total cost and sends it back to the user.
   - If the item is unavailable, provides a fallback link (Filta.ng).
 - **Value:** Saves time in estimating material costs and reduces manual BOQ errors.
+-  **Demo:** [Watch Construction BOQ Agent Demo ▶️](https://www.loom.com/share/94f424133b3f4ae4847f204ee6c85718)
 
 ---
 
@@ -25,6 +26,7 @@ This repository showcases the third batch of 5 automation agents built with **Ma
   - AI retrieves and analyzes current market performance.
   - Formats and delivers summaries of top gainers and losers.
 - **Value:** Delivers quick market insights and trend awareness without needing multiple dashboards.
+- **Demo:** [Watch Investico Demo ▶️](https://www.loom.com/share/2479455478a64ee0bb0490275f28b944)
 
 ---
 
@@ -35,7 +37,7 @@ This repository showcases the third batch of 5 automation agents built with **Ma
   - **AssemblyAI** transcribes the message into text.
   - AI generates personalized travel tips or itineraries and formats them for chat.
 - **Value:** Offers fast, conversational travel guidance with a human-like experience.
-
+- **Demo:** [Watch Travel-Aid Demo ▶️](https://www.loom.com/share/249d23ee1e3c444a879e96ea5829cd25)
 ---
 
 ### 4. 💬 SocioGen Agent
@@ -48,7 +50,7 @@ This repository showcases the third batch of 5 automation agents built with **Ma
     - 🔄 Regenerate  
   - Upon approval, it auto-posts to platforms like **LinkedIn**, **Facebook**, or **Telegram**.
 - **Value:** Saves time for content creators and ensures high-quality, platform-ready posts with minimal effort.
-
+- **Demo:** [Watch SocioGen Demo ▶️](https://www.loom.com/share/6568f81fb148434e9bba7058d924d70b)
 ---
 
 ### 5. 🧭 Career Pivoteer
@@ -61,7 +63,7 @@ This repository showcases the third batch of 5 automation agents built with **Ma
     - Recommended resources and timelines  
   - Users can regenerate results or export plans to **Google Docs/Sheets**.
 - **Value:** Provides actionable, personalized career roadmaps and replaces generic career advice with data-driven insights.
-
+- **Demo:** [Watch Career Pivoteer Demo ▶️](https://www.loom.com/share/aca79820e2994badacbbbf59775aaef2)
 ---
 
 ## 🚀 Tech Stack

@@ -18,6 +18,7 @@ This final batch in the Automation Agents series includes 5 advanced AI-driven b
     - ❌ No → bot ends politely  
     - 🔄 Re-do → regenerates the report
 - **Value:** Simplifies daily reporting with a natural, voice-first experience for professionals on the move.
+- **Demo:** [Watch Report Maestro Demo ▶️](https://www.loom.com/share/cd1f5253b0bd43f583ac4c08555e4f39)
 
 ---
 
@@ -29,6 +30,7 @@ This final batch in the Automation Agents series includes 5 advanced AI-driven b
   - AI identifies key requirements, risks, and bid recommendations.
   - Results are logged in **Google Sheets**, and notifications are sent to stakeholders via **Telegram**.
 - **Value:** Reduces human oversight in bid analysis and accelerates bid/no-bid decision-making.
+- **Demo:** [Watch Tender Analyzer Demo ▶️](https://www.loom.com/share/e3e2c758b9af40d289e54226cd8564bc)
 
 ---
 
@@ -39,6 +41,7 @@ This final batch in the Automation Agents series includes 5 advanced AI-driven b
   - Bot fetches live data (progress %, notes, milestones) from **Google Sheets**.
   - **OpenRouter** reformats it into a friendly, natural-language update.
 - **Value:** Enables real-time stakeholder communication without manual reporting.
+- **Demo:** [Watch Project Status Chatbot Demo ▶️](https://www.loom.com/share/432a56acb9954231ba71fbbd40661c7c)
 
 ---
 
@@ -50,6 +53,7 @@ This final batch in the Automation Agents series includes 5 advanced AI-driven b
   - **QuickChart** generates visual charts for better understanding.
   - Telegram bot sends summary insights and visuals to the manager.
 - **Value:** Improves workload management with data-driven optimization and visual clarity.
+- **Demo:** [Watch Resource Optimizer Demo ▶️](https://www.loom.com/share/d20833b826bb42219853d2e53a395b9c)
 
 ---
 
@@ -62,6 +66,7 @@ This final batch in the Automation Agents series includes 5 advanced AI-driven b
     - 🔄 Regenerate – produce a new version
   - Optionally, accepted snippets can be logged in **Google Sheets** for record keeping.
 - **Value:** Speeds up coding workflows, supports prototyping, and enables interactive refinement.
+- **Demo:** [Watch Code Generation Agent Demo ▶️](https://www.loom.com/share/4d293d4bcaee4328bca96911ac7e1099)
 
 ---
 
